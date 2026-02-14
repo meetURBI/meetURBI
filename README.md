@@ -6,10 +6,10 @@ and a small AutoHotkey 2.0 script that acts as WIN key replacer to bring search 
 <div align="center">
   <table>
     <tr>
-      <td align="center" valign="middle" height="64"><img src="https://github.com/urbi-gith/urbi-gith/blob/main/icons/html5.svg" width="64" /><br>HTML5</td>
-      <td align="center" valign="middle" height="64"><img src="https://github.com/urbi-gith/urbi-gith/blob/main/icons/css3.svg" width="64" /><br>CSS3</td>
-      <td align="center" valign="middle" height="64"><img src="https://github.com/urbi-gith/urbi-gith/blob/main/icons/sass.svg" width="64" /><br>Sass</td>
-      <td align="center" valign="middle" height="64"><img src="https://github.com/urbi-gith/urbi-gith/blob/main/icons/javascript.svg" width="64" /><br>JavaScript</td>
+      <td align="center" valign="middle" height="64"><img src="https://github.com/meetURBI/meetURBI/blob/main/icons/html5.svg" width="64" /><br>HTML5</td>
+      <td align="center" valign="middle" height="64"><img src="https://github.com/meetURBI/meetURBI/blob/main/icons/css3.svg" width="64" /><br>CSS3</td>
+      <td align="center" valign="middle" height="64"><img src="https://github.com/meetURBI/meetURBI/blob/main/icons/sass.svg" width="64" /><br>Sass</td>
+      <td align="center" valign="middle" height="64"><img src="https://github.com/meetURBI/meetURBI/blob/main/icons/javascript.svg" width="64" /><br>JavaScript</td>
     </tr>
   </table>
 </div>
